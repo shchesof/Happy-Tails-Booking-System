@@ -1,0 +1,21 @@
+.events-control {
+    text-align: center;
+    border: 1px solid #a0e69a;
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 30rem;
+    max-width: 80%;
+}
+
+.filter-btn {
+    background: transparent;
+    color: #373a3c;
+    border: solid 1px #adadad;
+    margin-bottom: 0.5rem;
+}
+
+.filter-btn:hover,
+.filter-btn:active,
+.filter-btn:focus {
+    background: #e6e6e6;
+}

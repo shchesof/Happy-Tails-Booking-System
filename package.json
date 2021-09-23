@@ -1,0 +1,26 @@
+{
+  "name": "graphql-react-event-booking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@progress/kendo-react-dropdowns": "^4.5.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "dataloader": "^2.0.0",
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
